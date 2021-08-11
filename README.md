@@ -17,13 +17,13 @@
 b
 ### Connect with me:
 
-[<img align="left" alt="Profile" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/924/924874.svg" />][https://bio.link/asadanwer]
+[<img align="left" alt="Profile" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/924/924874.svg" />][website]
 
-[<img align="left" alt="twitter-logo | Twitter" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" />][https://twitter.com/asadanwer__]
+[<img align="left" alt="twitter-logo | Twitter" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" />][twitter]
 
-[<img align="left" alt="LinkedIn-logo" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />][https://www.linkedin.com/in/asad-anwer/]
+[<img align="left" alt="LinkedIn-logo" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />][linkedin]
 
-[<img align="left" alt="Instagram-logo" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />][https://www.instagram.com/asadanwer__/]
+[<img align="left" alt="Instagram-logo" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />][instagram]
 
 <br />
 
