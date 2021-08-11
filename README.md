@@ -1,6 +1,6 @@
 ### Hi there, I'm Asad Anwer! 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/fmustafa044?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=asadanwer__)
+[![Twitter Follow](https://img.shields.io/twitter/follow/asadanwer__?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=asadanwer__)
 
 ## I'm an Entreprenuer, Developer and Designer!
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m always learning to become a better Entreprenuer, a skilled Developer, and an even more empathetic Designer. 📚📚
 
-- 👯 Looking for time to read more Books
+- 👀 Looking for time to read more Books
 
 - 🥅 2021 Goals: A full-stack developer and an Entrepreneur with a Success Story! 
 
@@ -78,5 +78,10 @@ b
 
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+</details> -->
 
 
+[website]: https://bio.link/asadanwer
+[twitter]: https://twitter.com/asadanwer__
+[instagram]: https://www.instagram.com/asadanwer__/
+[linkedin]: https://www.linkedin.com/in/asad-anwer/
