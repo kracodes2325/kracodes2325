@@ -14,7 +14,6 @@
 
 - ⚡ About me: A Computer Scientist with a keen interest in Design, Research, and Software Development, a Business Enthusiast, a Software Design and Developer by Profession. A writer, musician, and a helping hand by passion. Here to make the world a better and kinder place.
 
-<br />
 ### Connect with me:
 
 [<img align="left" alt="Profile" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/924/924874.svg" />][website]
