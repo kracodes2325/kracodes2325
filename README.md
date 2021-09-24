@@ -16,13 +16,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Profile" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/924/924874.svg" />][website]
+[<img align="left" alt="Profile" width="22px" src="https://cdn-icons-png.flaticon.com/512/560/560216.png" />][website]
 
-[<img align="left" alt="twitter-logo | Twitter" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" />][twitter]
+[<img align="left" alt="twitter-logo | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" />][twitter]
 
-[<img align="left" alt="LinkedIn-logo" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />][linkedin]
+[<img align="left" alt="LinkedIn-logo" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
-[<img align="left" alt="Instagram-logo" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />][instagram]
+[<img align="left" alt="Instagram-logo" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
 
 <br />
 
