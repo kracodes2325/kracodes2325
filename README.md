@@ -2,9 +2,9 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/asadanwer__?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=asadanwer__)
 
-## I'm an Entrepreneur, Product Designer and Developer!
+## I'm an Entrepreneur, Product Designer, and Developer!
 
-# UI/UX Unicorn 🦄
+# UX Designer and Developer 🦄
 
 - 🌱 Always learning to become a better Entrepreneur, a Developer, and an impactful empathetic Designer. 📚
 
