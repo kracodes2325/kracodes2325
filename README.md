@@ -2,17 +2,15 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/asadanwer__?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=asadanwer__)
 
-## I'm an Entreprenuer, Developer and Designer!
+## I'm an Entrepreneur, Product Designer and Developer!
 
 # UI/UX Unicorn 🦄
 
-- 🌱 I’m always learning to become a better Entreprenuer, a skilled Developer, and an even more empathetic Designer. 📚📚
+- 🌱 Always learning to become a better Entrepreneur, a Developer, and an impactful empathetic Designer. 📚
 
-- 👀 Looking for time to read more Books
+- 👀 Always time to read more Books
 
-- 🥅 2021 Goals: A full-stack developer and an Entrepreneur with a Success Story! 
-
-- ⚡ About me: A Computer Scientist with a keen interest in Design, Research, and Software Development, a Business Enthusiast, a Software Design and Developer by Profession. A writer, musician, and a helping hand by passion. Here to make the world a better and kinder place.
+- ⚡ About me: A Computer Scientist with a keen interest in Design, Research, and Software Development, a Business Enthusiast, and a Software Design and Developer by Profession. A writer, musician, and a helping hand by passion. Here to make the world a better and kinder place.
 
 ### Connect with me:
 
