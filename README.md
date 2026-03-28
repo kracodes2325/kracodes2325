@@ -4,11 +4,11 @@
 
 # UX Designer and Developer 🦄
 
-- 🌱 Always learning to become a better Entrepreneur, a Developer, and an impactful empathetic Designer. 📚
+- 🌱 Always learning to become a better Entrepreneur, Designer, and Developer. 📚
 
 - 👀 Always time to read more Books
 
-- ⚡ About me: A Computer Scientist with a keen interest in Design, Research, and Software Development, a Business Enthusiast, and a Software Design and Developer by Profession. A writer, musician, and a helping hand by passion. Here to make the world a better and kinder place.
+- ⚡ About me: A Computer Scientist with a keen interest in Design, Research, and Software Development, a Business Enthusiast, and a UX Designer and Developer by Profession. A writer, musician, and a helping hand by passion. Here to make the world a better and kinder place.
 
 ### Connect with me:
 
@@ -56,22 +56,6 @@
 
 <br />
 
-
-<!--END_SECTION:activity-->
-
-#### ⚡ Github Stats:
-
-<img align="left" alt="Farab's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kracodes2325&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=blueberry" />
-<img align="left" alt="kracodes2325's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kracodes2325&hide_border=true&layout=compact&theme=blueberry" />
-
-<!-- <details>
-
-<summary>:zap: GitHub Stats</summary>
-
-
-
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-</details> -->
 
 
 [website]: https://bio.link/asadanwer
